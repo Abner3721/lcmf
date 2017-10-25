@@ -12863,3 +12863,2376 @@
 [ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
 [ info ] [ LOG ] INIT File
 [ error ] [0]模板文件不存在:E:\web\htdocs\lcmf\public/../app/admin\view\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:04:10+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.049000s][吞吐率：20.41req/s] [内存消耗：1,895.85kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:04:44+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.056000s][吞吐率：17.86req/s] [内存消耗：1,901.43kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:04:57+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.032000s][吞吐率：31.25req/s] [内存消耗：1,895.85kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:05:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.031000s][吞吐率：32.26req/s] [内存消耗：1,895.84kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:05:16+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.057000s][吞吐率：17.54req/s] [内存消耗：1,895.85kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:06:13+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.045000s][吞吐率：22.22req/s] [内存消耗：1,894.76kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:06:14+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.053000s][吞吐率：18.87req/s] [内存消耗：1,894.76kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:06:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.065000s][吞吐率：15.38req/s] [内存消耗：1,894.76kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:06:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.031000s][吞吐率：32.26req/s] [内存消耗：1,894.76kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:06:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.032000s][吞吐率：31.25req/s] [内存消耗：1,894.76kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:06:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.030000s][吞吐率：33.33req/s] [内存消耗：1,894.76kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:06:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.032000s][吞吐率：31.25req/s] [内存消耗：1,894.76kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:06:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.032000s][吞吐率：31.25req/s] [内存消耗：1,894.76kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\PublicController::_initializeView()[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:38]
+---------------------------------------------------------------
+[ 2017-10-25T18:06:56+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.036000s][吞吐率：27.78req/s] [内存消耗：2,223.77kb] [文件加载：40]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:E:\web\htdocs\lcmf\public/../app/admin\view\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:07:03+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.066000s][吞吐率：15.15req/s] [内存消耗：1,888.38kb] [文件加载：37]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8]Array to string conversion[E:\web\htdocs\lcmf\simplewind\cmf\controller\BaseController.php:40]
+---------------------------------------------------------------
+[ 2017-10-25T18:07:26+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.039000s][吞吐率：25.64req/s] [内存消耗：2,225.31kb] [文件加载：40]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:E:\web\htdocs\lcmf\public/../app/admin\view\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:07:36+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.023000s][吞吐率：43.48req/s] [内存消耗：1,533.18kb] [文件加载：26]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-25T18:17:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.075000s][吞吐率：13.33req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:18:45+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.058000s][吞吐率：17.24req/s] [内存消耗：3,397.31kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [0]模板文件不存在:E:\web\htdocs\lcmf\public/../app/admin\view\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:18:59+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.075000s][吞吐率：13.33req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:19:11+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.063000s][吞吐率：15.87req/s] [内存消耗：3,397.23kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [0]模板文件不存在:E:\web\htdocs\lcmf\public/../app/admin\view\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:19:31+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.080000s][吞吐率：12.50req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:20:14+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.053000s][吞吐率：18.87req/s] [内存消耗：2,821.11kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:20:39+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.055000s][吞吐率：18.18req/s] [内存消耗：3,397.89kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3admin\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:20:50+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.084000s][吞吐率：11.90req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:21:05+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.100000s][吞吐率：10.00req/s] [内存消耗：3,397.89kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.011000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3admin\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:21:29+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.066000s][吞吐率：15.15req/s] [内存消耗：3,447.71kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:21:38+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.093000s][吞吐率：10.75req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:21:39+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.083000s][吞吐率：12.05req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:23:55+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.058000s][吞吐率：17.24req/s] [内存消耗：3,397.31kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [0]模板文件不存在:E:\web\htdocs\lcmf\public/../app/admin\view\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:24:04+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.065000s][吞吐率：15.38req/s] [内存消耗：3,397.89kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3admin\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:25:07+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.024000s][吞吐率：41.67req/s] [内存消耗：1,539.44kb] [文件加载：26]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-25T18:25:39+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.021000s][吞吐率：47.62req/s] [内存消耗：1,539.55kb] [文件加载：26]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-25T18:27:52+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.066000s][吞吐率：15.15req/s] [内存消耗：2,821.12kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:27:52+08:00 ] 127.0.0.1 127.0.0.1 GET /favicon.ico
+[ info ] www.lcmf.com/favicon.ico [运行时间：0.043000s][吞吐率：23.26req/s] [内存消耗：1,769.20kb] [文件加载：31]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://www.lcmf.com/admin/public/login.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-10-25T18:27:53+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.081000s][吞吐率：12.35req/s] [内存消耗：2,821.12kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:27:53+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.086000s][吞吐率：11.63req/s] [内存消耗：2,821.12kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:28:28+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.040000s][吞吐率：25.00req/s] [内存消耗：2,821.12kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:28:39+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.042000s][吞吐率：23.81req/s] [内存消耗：2,830.38kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:28:40+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.060000s][吞吐率：16.67req/s] [内存消耗：2,830.38kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:28:41+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.058000s][吞吐率：17.24req/s] [内存消耗：2,830.38kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:28:41+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.060000s][吞吐率：16.67req/s] [内存消耗：2,830.38kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:28:41+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.037000s][吞吐率：27.03req/s] [内存消耗：2,830.38kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:28:54+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.059000s][吞吐率：16.95req/s] [内存消耗：2,830.70kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:28:54+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.065000s][吞吐率：15.38req/s] [内存消耗：2,830.70kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:28:54+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.052000s][吞吐率：19.23req/s] [内存消耗：2,830.70kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:28:55+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.059000s][吞吐率：16.95req/s] [内存消耗：2,830.70kb] [文件加载：36]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+---------------------------------------------------------------
+[ 2017-10-25T18:29:00+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.076000s][吞吐率：13.16req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:44:14+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.087000s][吞吐率：11.49req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:44:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.070000s][吞吐率：14.29req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:44:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.088000s][吞吐率：11.36req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:44:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.075000s][吞吐率：13.33req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:44:16+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.074000s][吞吐率：13.51req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:44:16+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.058000s][吞吐率：17.24req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:44:30+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.064000s][吞吐率：15.62req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:44:31+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.098000s][吞吐率：10.20req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.014000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:44:37+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.080000s][吞吐率：12.50req/s] [内存消耗：3,397.31kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [0]模板文件不存在:E:\web\htdocs\lcmf\public/../app/admin\view\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:44:52+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.060000s][吞吐率：16.67req/s] [内存消耗：3,398.17kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3/admin/admin\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:45:02+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.068000s][吞吐率：14.71req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:45:07+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.065000s][吞吐率：15.38req/s] [内存消耗：3,397.89kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3admin\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:45:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.053000s][吞吐率：18.87req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.008000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:45:21+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.054000s][吞吐率：18.52req/s] [内存消耗：3,397.89kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3admin\\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:45:28+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.076000s][吞吐率：13.16req/s] [内存消耗：3,447.77kb] [文件加载：48]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ VIEW ] themes/admin_simpleboot3/admin\\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [1]Class 'cmf\lib\taglib\Cmf' not found[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\Template.php:692]
+---------------------------------------------------------------
+[ 2017-10-25T18:48:40+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.068000s][吞吐率：14.71req/s] [内存消耗：3,398.14kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3/admin\public\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:50:53+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.063000s][吞吐率：15.87req/s] [内存消耗：3,397.88kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.006000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.000000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3/admin\admin\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:51:08+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.061000s][吞吐率：16.39req/s] [内存消耗：3,398.14kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3/admin\public\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:51:09+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.086000s][吞吐率：11.63req/s] [内存消耗：3,398.14kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3/admin\public\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:51:09+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.059000s][吞吐率：16.95req/s] [内存消耗：3,398.14kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.007000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3/admin\public\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]
+---------------------------------------------------------------
+[ 2017-10-25T18:51:10+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/public/login.html
+[ info ] www.lcmf.com/admin/public/login.html [运行时间：0.069000s][吞吐率：14.49req/s] [内存消耗：3,398.14kb] [文件加载：47]
+[ info ] [ LANG ] E:\web\htdocs\lcmf\simplewind\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'public',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.lcmf.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36 FirePHP/4Chrome',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'thinkphp_show_page_trace=1|3; ASPSESSIONIDAACBDSAD=DIAFIEPBGECKPBNPDCOCAECE; UM_distinctid=15ea77b7a73609-0af799f247f259-5c1b3517-13c680-15ea77b7a74306; CNZZDATA293201=cnzz_eid%3D1025442761-1506044510-http%253A%252F%252Fwww.lcmf.com%252F%26ntime%3D1506044510; CNZZDATA1262004244=1379849523-1506048449-http%253A%252F%252Fwww.lcmf.com%252F%7C1506048449; thinkphp_show_page_trace=0|0; PHPSESSID=ft6dgnkhh4o1j62au78833n1b1',
+  'x-firephp-version' => '0.0.6',
+  'x-wf-max-combined-size' => '261120',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\PublicController->login[ E:\web\htdocs\lcmf\app\admin\controller\PublicController.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002000s ] mysql:host=127.0.0.1;port=3306;dbname=thinkcmf5;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cmf_option` [ RunTime:0.009000s ]
+[ sql ] [ SQL ] SELECT `option_value` FROM `cmf_option` WHERE  `option_name` = 'cdn_settings' LIMIT 1 [ RunTime:0.001000s ]
+[ error ] [0]模板文件不存在:themes/admin_simpleboot3/admin\public\login.html[E:\web\htdocs\lcmf\simplewind\thinkphp\library\think\view\driver\Think.php:80]

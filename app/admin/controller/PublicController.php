@@ -21,7 +21,7 @@ class PublicController  extends AdminBaseController
      */
     public function login()
     {
-        return $this->fetch(":login");
+        return $this->fetch("login");
     }
 
    
